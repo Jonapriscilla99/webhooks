@@ -24,8 +24,7 @@ def main():
         print(f"{name},Read a Book")
     elif choice == "2":
         print(f"{name}, Practice in Python")
-    elif choice == "3":
-        print(f"{name}, Take Rest")
+    
     
     else:
         print("Invalid choice. Please select a valid action.")
